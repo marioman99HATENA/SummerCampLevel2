@@ -1,0 +1,14 @@
+<TextureAtlas imagePath="chest.png">
+	<SubTexture name="Chest_1.png" x="28" y="45" width="26" height="16"/>
+	<SubTexture name="Chest_10.png" x="0" y="30" width="26" height="25"/>
+	<SubTexture name="Chest_11.png" x="0" y="18" width="26" height="10"/>
+	<SubTexture name="Chest_12.png" x="0" y="0" width="26" height="16"/>
+	<SubTexture name="Chest_2.png" x="84" y="18" width="26" height="16"/>
+	<SubTexture name="Chest_3.png" x="84" y="0" width="26" height="16"/>
+	<SubTexture name="Chest_4.png" x="56" y="37" width="26" height="16"/>
+	<SubTexture name="Chest_5.png" x="56" y="19" width="26" height="16"/>
+	<SubTexture name="Chest_6.png" x="56" y="0" width="26" height="17"/>
+	<SubTexture name="Chest_7.png" x="84" y="36" width="26" height="18"/>
+	<SubTexture name="Chest_8.png" x="28" y="24" width="26" height="19"/>
+	<SubTexture name="Chest_9.png" x="28" y="0" width="26" height="22"/>
+</TextureAtlas>
